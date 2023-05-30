@@ -8,7 +8,7 @@ Cruz, F. L., Troyano, J. A., Enriquez, F., & Ortega, J. (2023). Detección y cla
 
 ## Description
 
-This repository contains both the FallacyES corpus, and Jupyter notebooks of the experiments shown in the paper.
+This repository contains both the FallacyES corpus, and a Jupyter notebook with the experiments shown in the paper.
 
 ### Corpus
 The corpus is composed of two sections:
@@ -18,9 +18,6 @@ The corpus is composed of two sections:
 - Spontaneous fallacies: these are examples of fallacies obtained from real user comments on a news aggregator website (reference). Examples of non-fallacies have also been located from the same source.
 
 Both sections are available in ``dataset`` folder, including a description of each column in ``dataset/FallacyES.md`` file
-
-### Experiments
-
 
 ## Citations
 
