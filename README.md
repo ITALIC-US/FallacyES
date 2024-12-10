@@ -36,3 +36,7 @@ Cruz, F. L., Troyano, J. A., Enriquez, F., & Ortega, J. (2023). Detección y cla
 ## License
 
 https://creativecommons.org/licenses/by/3.0/
+
+## Acknowledgments
+
+This dataset is part of the project PID2021-123005 funded by MCIN/AEI /10.13039/501100011033/ and by FEDER, UE.
